@@ -1,6 +1,8 @@
 # flutter_sample_theme_ver1
 
-A new Flutter project.
+書籍「Flutter実践開発」第５章１節「テーマ アプリ全体のヴィジュアルを管理」の内、「フレームワークによるテーマの自動計算機能」の内容に基づくものです。
+
+[Flutter実践開発 - iPhone／Android両対応アプリ開発のテクニック - ](https://gihyo.jp/book/2024/978-4-297-13993-3)
 
 ## Getting Started
 
