@@ -4,6 +4,10 @@
 
 [Flutter実践開発 - iPhone／Android両対応アプリ開発のテクニック - ](https://gihyo.jp/book/2024/978-4-297-13993-3)
 
+## Google Pixelの設定でダークテーマにする方法
+
+**Settings**の検索バーで「**dark**」と入力すると「**dark theme**」の欄が出るので、それをクリックしてダークテーマを有効化する
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
